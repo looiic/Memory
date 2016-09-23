@@ -13,4 +13,8 @@ public class Memory extends AppCompatActivity {
         setContentView(R.layout.activity_memory);
 
     }
+
+    public void tet (){
+
+    }
 }
