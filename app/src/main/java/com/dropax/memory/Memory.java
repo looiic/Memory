@@ -14,7 +14,7 @@ public class Memory extends AppCompatActivity {
 
     }
 
-    public void tet (){
+    public void test (){
 
     }
 }
